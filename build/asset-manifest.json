@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aff93c17.css",
+    "main.js": "/static/js/main.b3b5bb83.js",
+    "static/media/Jungka-Regular.woff": "/static/media/Jungka-Regular.8e80a105091bd5864b76.woff",
+    "static/media/Jungka-Book.woff": "/static/media/Jungka-Book.25830be3672cca4188d0.woff",
+    "static/media/Jungka-Bold.woff": "/static/media/Jungka-Bold.96c2751c53449e16e2fa.woff",
+    "static/media/Jungka-Regular.woff2": "/static/media/Jungka-Regular.d650fd524b88b308df9f.woff2",
+    "static/media/Jungka-Book.woff2": "/static/media/Jungka-Book.e01c3444c5ea6909a6ad.woff2",
+    "static/media/Jungka-Bold.woff2": "/static/media/Jungka-Bold.87801df01036d18ce3b7.woff2",
+    "static/media/Jungka-Medium.woff": "/static/media/Jungka-Medium.5c78aedd7819714d7d88.woff",
+    "static/media/Jungka-Medium.woff2": "/static/media/Jungka-Medium.9c61ae6705d8396c6749.woff2",
+    "static/media/logo.svg": "/static/media/logo.98ed746a590e766dbc825873565eefad.svg",
+    "index.html": "/index.html",
+    "main.aff93c17.css.map": "/static/css/main.aff93c17.css.map",
+    "main.b3b5bb83.js.map": "/static/js/main.b3b5bb83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff93c17.css",
+    "static/js/main.b3b5bb83.js"
+  ]
+}
