@@ -1,0 +1,37 @@
+// Buttons
+button {
+  cursor: pointer;
+}
+
+.btn {
+  border: none;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 16px;
+  text-transform: uppercase;
+
+  &--primary {
+    background-color: #2D80F8;
+    border-radius: 3px;
+    color: #FFF;
+    height: 46px;
+    max-width: 200px;
+  }
+
+  &--curved {
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    border-radius: 23px;
+    color: #2D80F8;
+    line-height: 1;
+    height: 38px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    &:hover,
+    &.active {
+      border-color: #2D80F8;
+      background-color: #E4EFFF;
+    }
+  }
+}
